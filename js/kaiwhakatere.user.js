@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Show image data from Oceania
+// @name         Kaiwhakatere (Navigator)
 // @namespace    http://oceania.digital/
 // @version      0.1
-// @description  Looks up images in Oceania, displays associated metadata
+// @description  Looks up links in Oceania, displays associated metadata
 // @author       Conal Tuohy (@conal_tuohy)
 // @match        https://oceania-digital.tumblr.com/*
 // @match        http://nzetc.victoria.ac.nz/*
@@ -10,6 +10,7 @@
 // @match        http://www.aucklandmuseum.com/*
 // @match        http://ketechristchurch.peoplesnetworknz.info/*
 // @match        https://en.wikipedia.org/*
+// @match        https://github.com/Conal-Tuohy/oceania/*
 // @grant        none
 // ==/UserScript==
 
