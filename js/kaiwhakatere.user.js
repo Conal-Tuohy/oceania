@@ -10,7 +10,6 @@
 // @match        http://www.aucklandmuseum.com/*
 // @match        http://ketechristchurch.peoplesnetworknz.info/*
 // @match        https://en.wikipedia.org/*
-// @match        https://github.com/Conal-Tuohy/oceania/*
 // @grant        none
 // ==/UserScript==
 
